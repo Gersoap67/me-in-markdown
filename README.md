@@ -1,7 +1,9 @@
 # me-in-markdown
 
 ## Introduction
-My name is Gerard, Im in 10th grade and I like video games. My favorite movie would probably be Avengers Endgame because it was very long but there was a lot of action scenes I liked. My favorite scene was when Captain America was actually gonna try to fight all of Thanos and his army by himself and then all the other heroes come and use stranges portal to help him. I also liked how wanda could actually keep up with Thanos and was almost as strong as him by herself.
+My name is Gerard, Im in 10th grade and I like video games.
+
+ My favorite movie would probably be Avengers Endgame because it was very long but there was a lot of action scenes I liked. My favorite scene was when Captain America was actually gonna try to fight all of Thanos and his army by himself and then all the other heroes come and use stranges portal to help him. I also liked how wanda could actually keep up with Thanos and was almost as strong as him by herself.
 
  I recently learned all of my new teachers names and remember where all of my new classes are. My goal for the year is to do all my work, have fun, and get straight A's. Im also happy I get most of my friends in all my classes except for math. In this Computer Science class, I hope to learn more about coding, vocabulary terms, and how to make better apps.
  
@@ -12,4 +14,6 @@ My name is Gerard, Im in 10th grade and I like video games. My favorite movie wo
 ## Playlist
 [Gersoap67's Playlist](https://open.spotify.com/playlist/3jrtrBOWm2rV69dv0HGcrt?si=whKgvyGVSSOdR6FhDTyJNA)
 
+These are some of my favorite songs from summer!
 ## Image Collage
+![alt text](image.png)
